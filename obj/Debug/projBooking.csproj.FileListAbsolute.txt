@@ -1,0 +1,12 @@
+H:\3 Laura\Booking\solBooking\projBooking\bin\Debug\projBooking.exe.config
+H:\3 Laura\Booking\solBooking\projBooking\bin\Debug\projBooking.exe
+H:\3 Laura\Booking\solBooking\projBooking\bin\Debug\projBooking.pdb
+H:\3 Laura\Booking\solBooking\projBooking\obj\Debug\projBooking.csprojResolveAssemblyReference.cache
+H:\3 Laura\Booking\solBooking\projBooking\obj\Debug\AssOneForm.Add_Booking.resources
+H:\3 Laura\Booking\solBooking\projBooking\obj\Debug\AssOneForm.Entry_Creation.resources
+H:\3 Laura\Booking\solBooking\projBooking\obj\Debug\AssOneForm.Entry_View.resources
+H:\3 Laura\Booking\solBooking\projBooking\obj\Debug\projBooking.Properties.Resources.resources
+H:\3 Laura\Booking\solBooking\projBooking\obj\Debug\AssOneForm.SplashScreen.resources
+H:\3 Laura\Booking\solBooking\projBooking\obj\Debug\projBooking.csproj.GenerateResource.Cache
+H:\3 Laura\Booking\solBooking\projBooking\obj\Debug\projBooking.exe
+H:\3 Laura\Booking\solBooking\projBooking\obj\Debug\projBooking.pdb
